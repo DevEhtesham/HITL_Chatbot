@@ -1,0 +1,5 @@
+# Local Environment
+.env
+venv
+__pycache__/
+.vscode 
